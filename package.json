@@ -1,11 +1,19 @@
 {
-  "name": "common",
+  "name": "ticketingcommon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavneshloopmethods/shared-library.git"
+  },
+  "author": "Bhavnesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavneshloopmethods/shared-library/issues"
+  },
+  "homepage": "https://github.com/bhavneshloopmethods/shared-library#readme"
 }
